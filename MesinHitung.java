@@ -41,7 +41,7 @@ public class MesinHitung extends JFrame {
     JButton exit = new JButton("Exit");
 
     MesinHitung() {
-        super("Kalkulator");
+        super("Mesin Hitung");
         setSize(600, 400);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
